@@ -1,1 +1,1 @@
-docker run -it -p 8080:8080  sundowndev/phoneinfoga serve -p 8080
+sudo apt install docker.io; docker run -it -p 8080:8080  sundowndev/phoneinfoga serve -p 8080
